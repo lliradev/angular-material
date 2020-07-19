@@ -1,0 +1,11 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.spacer-items {
+  margin-right: 1rem;
+}
+
+.success {
+  background-color: green;
+}
